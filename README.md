@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Shivam.
 - 👀 Interested in MERN
-- 🌱 Currently learning React
+- 🌱 Currently learning Node.js
 - 💞️ Looking to collaborate on javascript based projects.
 
 <!---
