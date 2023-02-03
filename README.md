@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![](https://komarev.com/ghpvc/?username=shivam-kadwade&style=flat-square&color=00BDAA)
+![](https://komarev.com/ghpvc/?username=shivam-kadwade&style=for-the-badge&color=00BDAA)
