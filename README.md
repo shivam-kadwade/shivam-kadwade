@@ -24,4 +24,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
 
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-kadwade&show_icons=true&locale=en&layout=compact" alt="shivam-kadwade" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-kadwade&" alt="shivam-kadwade" /></p>
+
 ![](https://komarev.com/ghpvc/?username=shivam-kadwade&style=for-the-badge&color=00BDAA)
