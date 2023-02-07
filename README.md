@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ### 📊 Stats
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-kadwade&show_icons=true&locale=en&layout=compact" alt="shivam-kadwade" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivam-kadwade&show_icons=true&layout=compact" alt="shivam-kadwade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-kadwade&" alt="shivam-kadwade" /></p>
 
