@@ -2,9 +2,7 @@
  
 🥷 I'm Shivam
 
- 👀 Interested in MERN
-
- 🌱 Currently learning Node.js
+ 🌱 I enjoy contributing to innovative products and startups
 
  💞️ Looking to collaborate on javascript based projects
 
